@@ -2,7 +2,7 @@
 <h1 align=center>Hi there :wave:  I am Randeera Withanage 👨‍💼</h1>
 <hr>
 
-<img src="https://github.com/Randeerwithanage/Randeer_Withanage_99/blob/main/my%20pro.gif" />
+<img src="https://github.com/Randeerwithanage/Randeerwithanage/blob/main/my%20pro.gif" />
 
 
 <!--
@@ -63,7 +63,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Randeerwithanage&" alt="Randeerwithanage" /></p>
 <hr>
-<img src="https://raw.githubusercontent.com/Randeerwithanage/Randeer_Withanage_99/main/hacktoberfest2020-badge_2.webp" width="150"/> 
+<img src="https://github.com/Randeerwithanage/Randeerwithanage/blob/main/hacktoberfest2020-badge_2.webp" width="150"/> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
