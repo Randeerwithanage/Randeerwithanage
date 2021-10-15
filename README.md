@@ -1,7 +1,7 @@
 #### 
 <h1 align=center>Hi there :wave:  I am Randeera Withanage 👨‍💼</h1>
 <hr>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Randeerwithanage&color=brightgreen" alt="NishuDissanayake" /> </p>
 <img src="https://github.com/Randeerwithanage/Randeerwithanage/blob/main/my%20pro.gif" />
 
 
