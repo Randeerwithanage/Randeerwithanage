@@ -64,6 +64,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Randeerwithanage&" alt="Randeerwithanage" /></p>
 <hr>
+
 <img src="https://github.com/Randeerwithanage/Randeerwithanage/blob/main/hacktoberfest2020-badge_2.webp" width="150"/> 
 
 <h3 align="center">Connect with me:</h3>
