@@ -68,6 +68,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Randeerwithanage&" alt="Randeerwithanage" /></p>
 <hr>
+<br>
+<a href="https://github.com/Randeerwithanage/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Randeerwithanage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://github.com/Randeerwithanage/Randeerwithanage/blob/main/hacktoberfest2020-badge_2.webp" width="150"/> 
 
