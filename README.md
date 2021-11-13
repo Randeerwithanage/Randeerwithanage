@@ -58,8 +58,13 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 <hr>
-
-
+<br>
+<br>
+<p align="center"><img width="18%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</p>
+<br>
+<br>
+<br>
 
 ![RANA's github stats](https://github-readme-stats.vercel.app/api?username=Randeerwithanage&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randeerwithanage&layout=compact&langs_count=8&theme=light)
